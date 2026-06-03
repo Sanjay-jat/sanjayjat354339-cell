@@ -16,18 +16,15 @@
 
 ---
 
-## 🧠 Who am I?
+## 🧠 About me
 
-```python
-sanjay = {
-    "role"       : "Full-Stack AI/ML Developer",
-    "education"  : "B.Tech CSE (ongoing)",
-    "location"   : "Jaipur, India",
-    "building"   : "Production-deployed ML systems — not just notebooks",
-    "next_goal"  : "LLM agents + RAG systems",
-    "open_to"    : ["ML internships", "Backend roles", "Collaborations"],
-}
-```
+🎓 &nbsp;B.Tech CSE student at a Jaipur university — final year  
+💻 &nbsp;Building **production-deployed** AI/ML systems, not just notebooks  
+🤖 &nbsp;Strong interest in ML, NLP, and intelligent systems  
+🚀 &nbsp;All my projects have live demos — I care about shipping, not just learning  
+🌱 &nbsp;Currently exploring **LLM agents**, RAG systems, and system design  
+💼 &nbsp;Open to ML/backend internships and collaborations  
+📍 &nbsp;Based in Jaipur, India
 
 ---
 
